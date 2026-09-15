@@ -9,13 +9,14 @@ I enjoy building practical projects that combine hardware, software, and simulat
 ### 🛠️ Skills & Technologies
 
 * **IT & Technical Support**
+* **Technical Troubleshooting**
 * **Electronics & Circuit Design**
 * **Microcontrollers & Embedded Systems**
-* **Arduino / ATmega328P**
+* **Arduino & STM32**
 * **Proteus Simulation**
 * **C / C++**
 * **Git & GitHub**
-* **Windows & Technical Troubleshooting**
+* **Windows**
 
 ### 🔬 Featured Project
 
@@ -23,12 +24,13 @@ I enjoy building practical projects that combine hardware, software, and simulat
 
 An educational patient temperature monitoring system built with **ATmega328P, LM35, 16×2 LCD, and alarm functions**, developed and tested in **Proteus**.
 
-### 🚀 Currently Learning
+### 🎯 Focus Areas
 
 * Embedded Systems
 * Microcontroller-based projects
 * Hardware & software integration
-* Practical IT troubleshooting
+* IT support and troubleshooting
+* Practical electronics and simulation
 
 ### 📫 Connect with Me
 
